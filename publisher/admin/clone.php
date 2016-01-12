@@ -15,7 +15,6 @@
  * @package         Publisher
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 include_once __DIR__ . "/admin_header.php";

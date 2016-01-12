@@ -17,7 +17,6 @@
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
  * @author          Bandit-x
- * @version         $Id$
  */
 
 include_once dirname(__DIR__) . '/include/common.php';

@@ -329,7 +329,6 @@ define("_MI_PUBLISHER_ALLOW_AUTHOR_ITEMS_DSC", "");
  * @specification   _LANGCODE: fr
  * @specification   _CHARSET: UTF-8
  *
- * @version         $Id$
  **/
 
 define("_MI_PUBLISHER_DISP_BLOCK_SUM", "Display block summary on items page?");

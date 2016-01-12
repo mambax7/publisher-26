@@ -17,7 +17,6 @@
  * @package      Publisher
  * @since        1.0
  * @author       Mage, Mamba
- * @version      $Id$
  */
 
 include __DIR__ . '/admin_header.php';

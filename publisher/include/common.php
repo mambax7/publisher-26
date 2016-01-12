@@ -17,7 +17,6 @@
  * @package         Publisher
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 define("PUBLISHER_DIRNAME", basename(dirname(__DIR__)));

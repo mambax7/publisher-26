@@ -21,7 +21,6 @@ use Xoops\Core\Request;
  * @author          Bandit-X
  * @author          trabis <lusopoemas@gmail.com>
  * @author          Xoops Modules Dev Team
- * @version         $Id$
  */
 // ######################################################################
 // # Original version:

@@ -110,5 +110,4 @@ define('_MD_PUBLISHER_OF', " de ");
  * @specification   _LANGCODE: fr
  * @specification   _CHARSET: UTF-8
  *
- * @version         $Id$
  **/

@@ -16,7 +16,6 @@
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
  * @author          The SmartFactory <www.smartfactory.ca>
- * @version         $Id$
  */
 
 include_once dirname(dirname(dirname(__DIR__))) . '/mainfile.php';

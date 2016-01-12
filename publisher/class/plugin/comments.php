@@ -18,7 +18,6 @@
  * @subpackage      Utils
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 class PublisherCommentsPlugin extends Xoops\Module\Plugin\PluginAbstract implements CommentsPluginInterface

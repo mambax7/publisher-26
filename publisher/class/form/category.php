@@ -19,7 +19,6 @@ use Xoops\Core\Kernel\Criteria;
  * @package         Publisher
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 include_once dirname(dirname(__DIR__)) . '/include/common.php';

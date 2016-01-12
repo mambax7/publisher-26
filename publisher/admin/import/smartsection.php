@@ -17,7 +17,6 @@
  * @author          trabis <lusopoemas@gmail.com>
  * @author          The SmartFactory <www.smartfactory.ca>
  * @author          Marius Scurtescu <mariuss@romanians.bc.ca>
- * @version         $Id$
  */
 
 include_once dirname(__DIR__) . '/admin_header.php';

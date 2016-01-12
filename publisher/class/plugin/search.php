@@ -21,7 +21,6 @@ use Xmf\Metagen;
  * @subpackage      Utils
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 class PublisherSearchPlugin extends PluginAbstract implements SearchPluginInterface

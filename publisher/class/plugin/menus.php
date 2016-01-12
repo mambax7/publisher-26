@@ -18,7 +18,6 @@
  * @subpackage      Utils
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 class PublisherMenusPlugin extends Xoops\Module\Plugin\PluginAbstract implements MenusPluginInterface

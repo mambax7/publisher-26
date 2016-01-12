@@ -120,7 +120,6 @@ define("_MB_PUBLISHER_ARCHIVE", "Archive");
  * @specification   _LANGCODE: fr
  * @specification   _CHARSET: UTF-8
  *
- * @version         $Id$
  **/
 
 //25-11-2012

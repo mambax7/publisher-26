@@ -111,7 +111,6 @@ define("_CO_PUBLISHER_IMAGE_CAT_NOPERM", "Vous n'avez pas les permissions d'util
  * @specification   _LANGCODE: fr
  * @specification   _CHARSET: UTF-8
  *
- * @version         $Id$
  **/
 
 //30/04/2012

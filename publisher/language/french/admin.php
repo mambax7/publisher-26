@@ -337,7 +337,6 @@ define("_AM_PUBLISHER_CATEGORY_MODERATOR_DSC", "Un modérateur peut accéder et 
  * @specification   _LANGCODE: fr
  * @specification   _CHARSET: UTF-8
  *
- * @version         $Id$
  **/
 
 //03/05/2012

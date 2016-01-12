@@ -15,7 +15,6 @@ use Xoops\Core\Kernel\Handlers\XoopsModule;
  * @copyright       XOOPS Project (http://xoops.org)
  * @license         GNU GPL V2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 function xoops_module_update_publisher(XoopsModule $module, $version)

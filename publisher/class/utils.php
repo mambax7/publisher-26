@@ -159,7 +159,6 @@ class PublisherUtils
      * Copy a file, or a folder and its contents
      *
      * @author      Aidan Lister <aidan@php.net>
-     * @version     1.0.0
      *
      * @param string $source The source
      * @param string $dest   The destination

@@ -13,7 +13,6 @@
  * @copyright       XOOPS Project (http://xoops.org)
  * @license         GNU GPL V2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
  * @author          Laurent JEN (aka DuGris)
- * @version         $Id$
  */
 
 class PublisherSystemPlugin extends Xoops\Module\Plugin\PluginAbstract implements SystemPluginInterface

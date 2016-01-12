@@ -16,7 +16,6 @@ use Xoops\Core\PreloadItem;
  * @license         GNU GPL V2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
  * @package         publisher
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 /**
